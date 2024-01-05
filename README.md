@@ -1,7 +1,7 @@
 # Python-OpenCV-Image-Processing
 
 > This project is based on Coursera Project Course ("OpenCV Image Processing"). Please enroll to this course by visiting this [link](https://www.coursera.org/projects/image-processing-with-python). The file name starts with numerical value 1-5.
-
+> For your convenience, I divided the tasks into 5 different files. 
 ## Description
 
 This project will produce the following outputs: 
